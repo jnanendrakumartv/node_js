@@ -122,10 +122,48 @@
 
 
 
-var obj = {
-    0: 'YourCat',
-    1: 'Come',
-    2: 'To Home', 
-    };
+// var obj = {
+//     0: 'YourCat',
+//     1: 'Come',
+//     2: 'To Home', 
+//     };
     
-    console.log(obj[0], obj[1], obj[2]);
+//     console.log(obj[0], obj[1], obj[2]);
+
+
+
+// var d = new Date();
+//   var weekday = new Array(7);
+//   weekday[0] = "Sunday";
+//   weekday[1] = "Monday";
+//   weekday[2] = "Tuesday";
+//   weekday[3] = "Wednesday";
+//   weekday[4] = "Thursday";
+//   weekday[5] = "Friday";
+//   weekday[6] = "Saturday";
+
+//   var n = weekday[d.getDay()];
+//   console.log(n);
+
+
+
+//    switch (x) 
+//    { 
+//        case 1: printf("Choice is 1"); 
+//                break; 
+//        case 2: printf("Choice is 2"); 
+//                 break; 
+//        case 3: printf("Choice is 3"); 
+//                break; 
+//        default: printf("Choice other than 1, 2 and 3"); 
+//                 break;   
+//    } 
+   
+//    console.log(2);
+
+
+
+let Items = 10;
+let Tax = 0.05;
+let Total = 10 + 0.05 ;
+console.log("Item price with TAX = " + Total);
